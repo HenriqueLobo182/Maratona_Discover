@@ -25,7 +25,6 @@ const transactions = [
     date: "23/01/2021",
   },
   {
-    id: 3,
     description: "Internet",
     amount: -20000,
     date: "23/01/2021",
